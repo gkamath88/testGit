@@ -1,2 +1,2 @@
 # testGit
-testGithub location
+testGithub location for tutorial purpose.
